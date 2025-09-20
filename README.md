@@ -80,5 +80,3 @@ A tool that takes a Microsoft Teams meeting link, fetches the transcript via Mic
   - Add support for Zoom/Google Meet transcripts
 
   - Enhance summary customization (tone, length, bullet vs paragraph)
-
-  - Store summaries in a database for historical tracking
