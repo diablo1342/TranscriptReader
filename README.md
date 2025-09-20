@@ -31,11 +31,8 @@ A tool that takes a Microsoft Teams meeting link, fetches the transcript via Mic
 
 ## Setup
   1. Clone Repository
-    git clone https://github.com/your-username/teams-transcript-summarizer.git
-    cd teams-transcript-summarizer
   
-  2. Install Dependencies
-    pip install -r requirements.txt
+  2. Install Dependencies (pip install -r requirements.txt)
   
   3. Azure App Registration (One-Time Setup)
   
@@ -43,7 +40,7 @@ A tool that takes a Microsoft Teams meeting link, fetches the transcript via Mic
     
     -Go to the Azure Portal, go to app registrations and click new registration.
     
-    -Give your app a name .
+    -Give your app a name.
     
     -Copy your Application (client) ID and Directory (tenant) ID — you’ll need these later.
     
