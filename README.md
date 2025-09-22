@@ -74,6 +74,9 @@ A tool that takes a Microsoft Teams meeting link, fetches the transcript via Mic
   
   - Get a structured summary and program will automatically email whoever you entered as recipients.
 
+## Demo Video
+https://www.loom.com/share/4c21d2988d1c48959ec4635ebde526e0?sid=da241a99-3908-436d-a05e-e47cfac71c5e
+
 
 ## Future Improvements
 
