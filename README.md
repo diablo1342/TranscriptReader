@@ -64,15 +64,15 @@ A tool that takes a Microsoft Teams meeting link, fetches the transcript via Mic
   5. Run Streamlit App in terminal
     streamlit run app.py
 
-## Usage
+## 🚧 Limitations
 
-  - Paste a Teams meeting link in the input box
-  
-  - Enter recipient emails + subject line
-  
-  - Click Run Summarizer
-  
-  - Get a structured summary and program will automatically email whoever you entered as recipients.
+-This app integrates with the Microsoft Graph API, which requires authentication through an Azure AD tenant.
+
+-Currently, only users within the Ignitiv Azure tenant (or another properly configured tenant) can log in and use the Teams integration features.
+
+-If you are outside the organization, you won’t be able to authenticate with Microsoft Graph.
+
+-Here is a link to the app for people within Ignitiv: https://transcriptreader-m2ajqeey8jsqdmshttnna6.streamlit.app/
 
 ## Demo Video
 https://www.loom.com/share/4c21d2988d1c48959ec4635ebde526e0?sid=da241a99-3908-436d-a05e-e47cfac71c5e
