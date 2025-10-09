@@ -64,7 +64,7 @@ A tool that takes a Microsoft Teams meeting link, fetches the transcript via Mic
   5. Run Streamlit App in terminal
     streamlit run app.py
 
-## 🚧 Limitations
+## Limitations
 
 -This app integrates with the Microsoft Graph API, which requires authentication through an Azure AD tenant.
 
